@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+main div {
+    border: 0.2rem black solid;
+    margin: auto;
+    text-align: center;
+}
+.litle-box {
+    background-color: red;
+    border-radius: 1rem;
+    width: 30rem;
+    padding: 2rem;
+    position: relative;
+    top: 3rem;
+    font-size: 3.2rem;
+}
+.big-box {
+    background-color: white;
+    border-radius: 1.5rem;
+    width: 45rem;
+    padding: 4rem;
+    font-size: 4.8rem;
+}
+
